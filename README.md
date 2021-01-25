@@ -22,4 +22,4 @@
    
 ## Notes
 
-- Don't forget that 'temp' in feature_extraction.ipynb currently still includes both Celsius and Fahrenheit measurements.
+- Don't forget that '_temp' in feature_extraction.ipynb currently still includes both Celsius and Fahrenheit measurements.
